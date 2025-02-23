@@ -1,6 +1,6 @@
 <?php
 
-    // Recebe os valores enviados pelo formulário oa
+    // Recebe os valores enviados pelo formulário
     $num1 = $_GET['num1'];
     $num2 = $_GET['num2'];
     $operador = $_GET['operador'];
